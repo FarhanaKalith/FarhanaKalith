@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarhanaKalith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on intresting web development projects
+- 💞️ I’m looking to collaborate on interesting web development projects
 - 📫 How to reach me at farhanakalith19@gmail.com
 
 <!---
